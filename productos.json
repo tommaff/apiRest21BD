@@ -1,0 +1,62 @@
+[
+	{
+		"nombre": "Mesa",
+		"precio": 1000,
+		"stock": 2,
+		"id": "1"
+	},
+	{
+		"nombre": "Silla",
+		"precio": 1222,
+		"stock": 1,
+		"id": "2"
+	},
+	{
+		"nombre": "Silla",
+		"precio": 2000,
+		"stock": 1,
+		"id": "3"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 3000,
+		"stock": 5,
+		"id": "4"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 123456,
+		"stock": 2,
+		"id": "5"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 1000,
+		"stock": 3,
+		"id": "6"
+	},
+	{
+		"nombre": "Silla",
+		"precio": 1000,
+		"stock": 3,
+		"id": "7"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 1000,
+		"stock": 5,
+		"id": "8"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 1000,
+		"stock": 3,
+		"id": "9"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 123.5,
+		"stock": 20,
+		"id": "10"
+	}
+]
